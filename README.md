@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisgrant&theme=vue-dark)
 -->
 
-<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=krisgrant&theme=vue-dark&show_icons=true&count_private=true" /></p>
-<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisgrant&theme=vue-dark" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=krisgrant&theme=vue-dark&show_icons=true&count_private=true" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisgrant&theme=vue-dark" />
