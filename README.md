@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=krisgrant&theme=vue-dark&show_icons=true&count_private=true" /></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisgrant&theme=vue-dark&count_private=true" />
-# idk why it doesn't show anything
