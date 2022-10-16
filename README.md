@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on new scl website
+- 🌱 I’m currently learning vuejs
+- 👯 I’m looking to collaborate on idk
+- 🤔 I’m looking for help with how the heck do i learn vue
+- 💬 Ask me about idk
+- 📫 How to reach me: 
+    KrisGra#0209
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: idk
 <!--
 **krisgrant/krisgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
