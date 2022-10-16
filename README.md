@@ -9,7 +9,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
 
-
+![status](https://dev.discordprofiles.me/badge/status/366945615059484684?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/366945615059484684)
+![vscode](https://dev.discordprofiles.me/badge/vscode/366945615059484684)
 <!--
 **krisgrant/krisgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
