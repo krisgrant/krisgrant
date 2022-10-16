@@ -8,6 +8,8 @@
     KrisGra#0209
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
+
+## a
 <!--
 **krisgrant/krisgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,5 +29,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=krisgrant&theme=vue-dark&show_icons=true&count_private=true" /></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisgrant&theme=vue-dark&count_private=true" />
-<br />
 <p align="right">idk why it doesn't show anything</p>
