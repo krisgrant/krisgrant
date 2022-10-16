@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![KrisGra's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisgrant&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisgrant&theme=vue-dark)
+-->
+
+<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=krisgrant&theme=vue-dark&show_icons=true&count_private=true" /></p>
+<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisgrant&theme=vue-dark" />
