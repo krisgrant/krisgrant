@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on new scl website
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning vue and tailwind
 - 👯 I’m looking to collaborate on idk
-- 🤔 I’m looking for help with how the heck do i learn vue
+- 🤔 I’m looking for help with idk
 - 💬 Ask me about idk
 - 📫 How to reach me: 
-    KrisGra#0209
+    KrisGra#0209 on discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk
 
